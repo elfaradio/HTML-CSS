@@ -1,0 +1,7 @@
+div {
+  height: 100vh;
+  background-color: aqua;
+  background-image: url();
+  background-repeat: none;
+  background-size: cover;
+}

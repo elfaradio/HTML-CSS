@@ -1,0 +1,24 @@
+div {
+  /* % relative to its parents
+     */
+  width: 500px;
+  height: 500px;
+  background-color: red;
+}
+section {
+  /* % relative to its parents
+  div is sections parent
+     */
+  width: 20%;
+  height: 100%;
+  background-color: black;
+}
+p {
+  /* deafault font size=1em 16px */
+  font-size: 2em;
+  /*  em relarive to parent
+  rem relative to root element */
+
+  /* vw ->>relative to 1 % width of viewport
+  vh -->> relative to 1% height of viewport  */
+}
