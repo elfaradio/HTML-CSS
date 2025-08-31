@@ -1,0 +1,31 @@
+#imgg {
+        height: 200px;
+        width: 200px;
+        padding: 10px;
+      }
+      .maindiv {
+        padding: 10px;
+        width: 500px;
+        
+        display: flex;
+        /* display: grid;
+        grid-template-columns: repeat(2, 1fr); */
+      }
+      p {
+        color: white;
+        background-color: rgb(207, 5, 5);
+      }
+      .heading {
+        font-style: italic;
+        font-size: 50px;
+      }
+      .bt {
+        background-color: red;
+        padding: 10px;
+        font-weight: bold;
+      }
+      body{
+        background-color: blue;
+        
+       
+      }
