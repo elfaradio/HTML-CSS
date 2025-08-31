@@ -1,0 +1,24 @@
+.heading {
+  color: rgba(248, 247, 227, 0.927);
+  font-size: 70px;
+}
+.banner {
+  background-color: rgb(47, 47, 194);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 100px;
+}
+#player-pic {
+  height: 500px;
+  width: 500px;
+}
+.Watch-now-btn {
+  background-color: red;
+  padding: 10px;
+  color: azure;
+  font-weight: bold;
+}
+.Watch-now-btn:hover {
+  background-color: darkred;
+  cursor: pointer;
+}
