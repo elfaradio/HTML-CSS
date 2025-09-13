@@ -12,6 +12,10 @@
   height: 500px;
   width: 500px;
 }
+#player-pic:hover {
+  transform: rotate(360deg) scale(1.1);
+  transition: 2s;
+}
 .Watch-now-btn {
   background-color: red;
   padding: 10px;
@@ -21,4 +25,10 @@
 .Watch-now-btn:hover {
   background-color: darkred;
   cursor: pointer;
+  transition: 2s;
+}
+.heading:hover {
+  transform: skew(30deg) scale(1);
+  transition: 2s;
+  color: yellow;
 }
